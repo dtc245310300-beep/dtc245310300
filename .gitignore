@@ -4,3 +4,4 @@
 
 *.log
 .DS_Store
+mysql-exporter/.my.cnf
